@@ -1,0 +1,46 @@
+node.js
+npm create vite@5.5.2 .
+npm install
+npm run dev
+
+<!-- SPA (Single Page Application) --!>
+<!-- Conteúdo inserido por meio de JavaScript  (React) --!>
+
+Vantagens de SPAs
+*Velocidade: navegação entre páginas é muito mais rápido, pois não exige chamadas para um servidor.
+*Experiência do usuário: SPAs são altamente interativas e performáticas.
+
+tailwind css hoje está como padrão para estilizar projetos react
+npm install -D tailwindcss@3.4.10 postcss@8.4.41  autoprefixer@10.4.20
+
+npx tailwindcss init
+npx tailwindcss init -p
+
+icons
+https://lucide.dev/
+npm install lucide-react@0.435.0
+
+https://www.npmjs.com/package/uuid
+npm install uuid@10.0.0
+
+https://reactrouter.com/
+npm install react-router-dom@6.26.1
+
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <div>Hello world!</div>,
+  },
+]);
+
+https://www.w3schools.com/jsref/prop_win_localstorage.asp
+
+https://jsonplaceholder.typicode.com/
+
+https://app.eraser.io/workspace/ut2yfGqT44UFZDyeC7dO
+
+https://www.npmjs.com/package/axios
+
+npm run build
