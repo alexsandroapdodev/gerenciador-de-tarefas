@@ -1,8 +1,7 @@
-# React + Vite
+Gerenciador de tarefas desenvolvido com React, utilizando os hooks useState e useEffect. 
+Permite adicionar, listar e remover tarefas, além de salvar as tarefas no localStorage para persistência entre sessões.
+Design foi feito pelo Felipe Rocha! Professor da Full Stack Club!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Confira aqui: https://gerenciador-de-tarefas-virid-six.vercel.app
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![gerenciador-de-tarefas](https://github.com/user-attachments/assets/66f5ab87-5522-49d8-8e16-68960e765819)
